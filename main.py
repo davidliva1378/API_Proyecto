@@ -38,3 +38,4 @@ def api_actor(nombre_actor: str):
 def api_director(nombre_director: str):
     return {"result": get_director(nombre_director)}
 
+#fin del archivo main, ver si actualiza correctamente
